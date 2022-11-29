@@ -311,6 +311,10 @@ body::-webkit-scrollbar-thumb {
 .loadermain {
   height: 100vh;
   background-color: #FFF3D9;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 99;
 }
 .loader {
   position: absolute;
