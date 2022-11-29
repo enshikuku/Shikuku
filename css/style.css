@@ -143,7 +143,7 @@ main img {
   flex-wrap: wrap;
 }
 #work #projects div {
-  min-width: 350px;
+  min-width: 270px;
   width: 47%;
 }
 
