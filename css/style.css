@@ -309,7 +309,7 @@ body::-webkit-scrollbar-thumb {
   height: 30px;      
 }
 .loadermain {
-  height: 100vh;
+  height: 110%;
   background-color: #FFF3D9;
   width: 100%;
   position: fixed;
