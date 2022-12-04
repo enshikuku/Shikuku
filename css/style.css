@@ -135,7 +135,7 @@ main img {
   background: url(https://res.cloudinary.com/dlkqilyi0/image/upload/v1669749111/PORTOFOLIO/work_kigyz1.jpg);
 }
 #work > * {
-  background-color: rgba(255, 243, 217, 0.4);
+  background-color: rgba(255, 243, 217, 0.6);
   padding: 25px;
   border-radius: 25px;
   margin: 0 auto;
