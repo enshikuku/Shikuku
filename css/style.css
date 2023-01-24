@@ -316,7 +316,7 @@ body::-webkit-scrollbar-thumb {
   height: 30px;      
 }
 .loadermain {
-  height: 140vh;
+  height: 120vh;
   background-color: #FFF3D9;
   width: 100%;
   position: fixed;
