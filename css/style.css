@@ -274,6 +274,9 @@ footer {
     #about #about-1, #about #about-2, #work #projects, #work #projects-1 {
         width: 98%;
     }
+    #about #about-2 {
+        flex-direction: column-reverse;
+    }
     #about-2 img {
         width: 100%;
     }
